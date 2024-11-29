@@ -62,15 +62,8 @@ async def start(message):
     await message.answer(chat_id, 'Що ти хочеш зробити?', reply_markup=markup)
 
 '''
-''' fafaf
+'''
 
-fdsa;fsa;hl
-fdsfafjfjfjfjfj
-
-fafhalhja
-
-finallyafa
-fahfhfjfjfhhf
 
 
 
